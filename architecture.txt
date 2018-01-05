@@ -1,0 +1,21 @@
+Blukpast presentation:
+   2D game engine, core in C , usable in C++
+
+BKP_Memory.c
+	Memory management, alloc and release
+
+BKP_graphic.c
+	SDL2 displaying
+
+BKP_messaging
+	internal messaging mechanism
+
+BKP_init.c
+	All blukpast initialisation
+		-init BKP variable and structs
+		-init memory
+		-init input
+		-init graphic
+		-init audio
+
+
